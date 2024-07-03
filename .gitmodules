@@ -1,0 +1,3 @@
+[submodule "libs/tacos_dep"]
+    path = libs/tacos_dep
+    url = git@github.com:taquitos/tacos_dep
